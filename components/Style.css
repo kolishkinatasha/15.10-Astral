@@ -1,0 +1,50 @@
+body {
+    margin: o;
+    padding: 0;
+    /* background: rgb(218, 225, 228); */
+}
+
+.header {
+    height: 100px;
+    background:  rgb(218, 225, 228);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/* body{
+    margin: o;
+    padding: 0;
+    background: rgb(218, 225, 228);
+}
+
+.eyes{
+    position: absolute;
+    top:50%;
+    transform: translateY(-50%);
+    width: 100%;
+    text-align: center;
+}
+
+.eye{
+    width: 240px;
+    height: 120px;
+    background: white;
+    display: inline-block;
+    margin: 40px;
+    border-radius: 50%;
+    position: relative;
+    overflow: hidden; 
+}
+
+.ball{
+    width: 40px;
+    height: 40px;
+    background: black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 50%;
+    border: 15px solid #1E5A2A;
+} */
